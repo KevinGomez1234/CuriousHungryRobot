@@ -7,7 +7,7 @@ The findings show the robot moves more on average when it uses a stack as memory
 # Example output 
 
 Robot Data Using Stack:
-| SIZE = 1000 | MIN = 400.387 | MAX = 5511.196 | MEAN = 1710.883 | MEDIAN = 1542.473 | SD = 983.264 |
+ SIZE = 1000, MIN = 400.387, MAX = 5511.196, MEAN = 1710.883, MEDIAN = 1542.473, SD = 983.264
  
 Robot Data Using Queue:
- SIZE = 1000 | MIN = 400.387 | MAX = 4017.186 | MEAN = 679.802 | MEDIAN = 423.503 | SD = 450.075
+ SIZE = 1000, MIN = 400.387, MAX = 4017.186, MEAN = 679.802, MEDIAN = 423.503, SD = 450.075
